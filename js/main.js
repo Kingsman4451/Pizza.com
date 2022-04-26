@@ -4,7 +4,6 @@ let elSelectType = document.querySelector(".js-select");
 let elSizeField = document.querySelector(".js-form-radios");
 let elTopList = document.querySelector(".js-form-checkboxes");
 let elExtraList = document.querySelector(".js-form-checkboxes-extra");
-let elFormBtn = document.querySelector(".form-btn");
 
 
 
