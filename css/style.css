@@ -1,0 +1,35 @@
+.form__select {
+  max-width: 300px;
+}
+
+.form__select-box, .form__radios-box, .form__checks-box {
+  border-radius: 20px;
+  box-shadow: -6px 5px 17px 0px rgba(34, 60, 80, 0.2);
+}
+
+.pizza__right {
+  height: 550px;
+  border-radius: 20px;
+  box-shadow: -6px 5px 17px 0px rgba(34, 60, 80, 0.2);
+}
+
+.result {
+
+}
+
+.result__bread, .result__size {
+  background-color: rgba(253, 125, 20, 0.20);
+  border-radius: 10px;
+}
+
+.result__top {
+  min-height: 180px;
+  background-color: rgba(253, 125, 20, 0.20);
+  border-radius: 10px;
+}
+
+.result__extra {
+  min-height: 100px;
+  background-color: rgba(253, 125, 20, 0.20);
+  border-radius: 10px;
+}
